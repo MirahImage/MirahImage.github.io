@@ -1,7 +1,8 @@
-baseURL = 'https://mirahimage.gay/'
+baseURL = 'https://MirahImage.github.io/'
 languageCode = 'en-us'
-title = 'Mirah Image'
-theme = 'blist'
+title = "Mirah Image"
+themesDir = "themes"
+theme = "blist"
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
