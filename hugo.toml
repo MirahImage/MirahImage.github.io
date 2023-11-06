@@ -2,7 +2,7 @@ baseURL = 'https://mirahimage.gay/'
 languageCode = 'en-us'
 title = "Mirah Image"
 themesDir = "themes"
-theme = "blist"
+theme = "pico"
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
