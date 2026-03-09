@@ -17,6 +17,9 @@ I like hiking and climbing in the mountains
 
 and I play [roller derby](https://wftda.com), currently for [Bear City Roller Derby](https://bearcityrollerderby.com/).
 
+I also love coffee, and espresso in particular. This is my current setup.
+![A red La Marzocco Linea Micra, along with a Timemore Sculptor 064s grinder, and various espresso accessories.](/espresso.jpg)
+
 ## Work
 
 Currently, I work at VMware, where I'm the technical lead for the messaging and streaming program. We build [RabbitMQ](https://www.rabbitmq.com).
